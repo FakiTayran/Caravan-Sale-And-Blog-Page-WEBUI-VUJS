@@ -22,7 +22,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 <p>You can add,delete,edit new caravans fro sale or rent from Admin Panel after that there are shows the Caravan List Page</p>
 <p>You can view Caravans as modalcards help with  Detail Buttons</p>
-<p>You can get meeting request for your own caravan design</p>
+<p>You can get appointment request for your own caravan design</p>
 <p>and more...</p>
 <p>please install the projects from both SaleCaravanWEBUI and SaleCaravanWebAPI repositories and enjoy it...</p>
 
