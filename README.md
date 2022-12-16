@@ -20,8 +20,9 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 <h2>ElevenFeet Caravan Sale And Blog Web Page</h2>
 <p1>This site has been working for Caravan Sale Post And Blog Post</p1>
 
-<p1>You can add,delete,edit new caravans from Admin Panel after that there are shows the Caravan List Page</p1>
+<p1>You can add,delete,edit new caravans fro sale or rent from Admin Panel after that there are shows the Caravan List Page</p1>
 <p1>You can view Caravans as modalcards help with  Detail Buttons</p1>
+<p1>You can get meeting request for your own caravan design<p1>
 and more...
 please install the projects from both SaleCaravanWEBUI and SaleCaravanWebAPI repositories and enjoy it...
 
